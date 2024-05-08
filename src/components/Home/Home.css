@@ -1,0 +1,58 @@
+.carousel-section{
+    margin-top: 2rem;
+}
+.carousel-left{
+    
+    background-size:cover;
+    width: 500px;
+    height: 500px;
+    overflow: hidden;
+}
+.million{
+    width: Hug (290.49px)px;
+    height: Hug (239px)px;
+    top: 726px;
+    left: 499px;
+    padding: 34px 30px 40px 36px;
+    gap: 20px;
+    border-radius: 28.36px 0px 0px 0px;
+    border: 1.18px 0px 0px 0px;
+    opacity: 0px;
+    background: #002E18;
+    border: 1.18px solid;
+
+    border-image-source: linear-gradient(159.14deg, #3D3D3D 6.08%, rgba(61, 61, 61, 0) 85.58%);
+    
+    box-shadow: 0px 23.63px 37.81px 0px #1E1E1E17;
+        
+}
+.carousel-left-image{
+    background-image: url('../../assets/girlimage.png');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    /* border-radius: 20px; */
+    border-radius: 40px;
+
+}
+.efficiency{
+    width: 267.82px;
+height: 239px;
+/* top: 483px;
+left: 62px; */
+padding: 30px 0px 0px 0px;
+gap: 10px;
+border-radius: 27.11px 0px 0px 0px;
+opacity: 0px;
+box-shadow: 0px 22.59px 36.14px 0px #1E1E1E17;
+background-color: #fff;
+
+}
+.forty{
+    display: flex;
+}
+.forty img{
+    position: relative;
+    top: -2rem;
+    right: -3rem;
+}

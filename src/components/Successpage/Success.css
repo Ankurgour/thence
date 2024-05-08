@@ -1,0 +1,155 @@
+.success-section {
+    padding: 40px;
+    /* background-color: #f4f4f4; */
+    font-family: 'Inter', sans-serif;
+  }
+  
+  .success-text {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .success-text h2 {
+    color: #2DA950;
+    font-family: Covered By Your Grace;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  .success-text h1 {
+    font-size: 36px;
+    font-weight: 700;
+    color: #333333;
+    width: 534px;
+    text-align: center;
+    position: relative;
+    left: 30%;
+  }
+  
+  .success-details {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .image-container {
+    position: relative;
+  }
+  
+  .woman-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .stats-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .stats {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .stats-number {
+    font-size: 24px;
+    font-weight: 700;
+    color: #3b71ca;
+  }
+  
+  .stats-label {
+    font-size: 14px;
+    color: #666666;
+    text-align: center;
+  }
+  
+  .info-container {
+    max-width: 400px;
+  }
+  
+  .info-container h3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #333333;
+    margin-bottom: 20px;
+  }
+  
+  .person-name {
+    font-size: 18px;
+    font-weight: 700;
+    color: #333333;
+    margin-bottom: 10px;
+  }
+  
+  .project-details {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .project-label {
+    background-color: #3b71ca;
+    color: #ffffff;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 700;
+    margin-right: 10px;
+  }
+  
+  .project-description {
+    font-size: 14px;
+    color: #666666;
+  }
+  
+  .savings-details {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .savings-amount {
+    font-size: 18px;
+    font-weight: 700;
+    color: #3b71ca;
+    margin-right: 10px;
+  }
+  
+  .savings-label {
+    font-size: 14px;
+    color: #666666;
+  }
+  
+  .explore-btn {
+    background-color: #3b71ca;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: 700;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .explore-btn:hover {
+    background-color: #2d5ba3;
+  }
+  
+  .person-names {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+  }
+  
+  .person-names span {
+    font-size: 14px;
+    color: #666666;
+    margin-left: 10px;
+  }

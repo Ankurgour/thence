@@ -1,0 +1,46 @@
+.Navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /* gap: 2rem;    */
+    align-items: center;
+    margin-top: 2rem;
+    padding: 0.5rem;
+    margin-left: 4rem;
+    border-radius: 65.28px;
+    border: 1px solid #EAEAEA;
+    width: 90%;
+}
+.elemnts{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border-radius: 107.06px;
+    padding: 26.11px 41.78px;
+    font-size: 16px;
+    margin: 0 1rem 0 1rem;
+  }
+  
+  button:first-child {
+    border: 1.31px solid #f1f1f1;
+    background-color: white;
+  }
+  button:first-child:hover{
+    background-color: #f1f1f1;
+  }
+  
+  button:last-child {
+    /* background: linear-gradient(97.55deg, #1C1C1C 2.63%, #454444 105.2%),
+                linear-gradient(0deg, #1C1C1C, #1C1C1C); */
+                background-color: black;
+    border: none;
+    color: #FFFFFF;
+  }
+  button:last-child:hover {
+    background-color: #4E4E4E;
+  }
+  
